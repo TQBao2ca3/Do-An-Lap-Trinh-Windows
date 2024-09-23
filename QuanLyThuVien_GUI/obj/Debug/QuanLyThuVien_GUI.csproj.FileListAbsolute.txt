@@ -1,0 +1,86 @@
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_GUI.csproj.AssemblyReference.cache
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangKy.resources
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGiaDoiMK.resources
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.mnuTaiKhoan.resources
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_GUI.csproj.GenerateResource.cache
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_GUI.csproj.CoreCompileInputs.cache
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Đồ Án Lập Trình Windows\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.exe.config
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.exe
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_BUS.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DTO.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_BUS.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DTO.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.AssemblyReference.cache
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmBaoCaoThongKe.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDangKy.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDocGia.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDocGiaDoiMK.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLyDocGia.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLyMuonTra.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLySach.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.GenerateResource.cache
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.CoreCompileInputs.cache
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.CopyComplete
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.exe
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmTrangChu.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.exe.config
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.exe
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.pdb
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_BUS.dll
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DTO.dll
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DAO.dll
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_BUS.pdb
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DTO.pdb
+C:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DAO.pdb
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.AssemblyReference.cache
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmBaoCaoThongKe.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDangKy.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDocGia.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDocGiaDoiMK.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLyDocGia.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLyMuonTra.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLySach.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmTrangChu.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.GenerateResource.cache
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.CoreCompileInputs.cache
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.CopyComplete
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.exe
+C:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.exe.config
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_BUS.dll
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DTO.dll
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DAO.dll
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_BUS.pdb
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DTO.pdb
+D:\QuanLyThuVien\QuanLyThuVien_GUI\bin\Debug\QuanLyThuVien_DAO.pdb
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmBaoCaoThongKe.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDangKy.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDocGia.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmDocGiaDoiMK.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLyDocGia.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLyMuonTra.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmQuanLySach.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.frmTrangChu.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.GenerateResource.cache
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien_GUI.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyTh.8B928C56.Up2Date
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien_GUI\obj\Debug\QuanLyThuVien.pdb

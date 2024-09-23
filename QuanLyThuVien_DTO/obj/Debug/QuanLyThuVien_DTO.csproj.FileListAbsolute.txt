@@ -1,0 +1,12 @@
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_DTO\bin\Debug\QuanLyThuVien_DTO.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_DTO\bin\Debug\QuanLyThuVien_DTO.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.csproj.AssemblyReference.cache
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.csproj.CoreCompileInputs.cache
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.pdb
+D:\QuanLyThuVien\QuanLyThuVien_DTO\bin\Debug\QuanLyThuVien_DTO.dll
+D:\QuanLyThuVien\QuanLyThuVien_DTO\bin\Debug\QuanLyThuVien_DTO.pdb
+D:\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.dll
+D:\QuanLyThuVien\QuanLyThuVien_DTO\obj\Debug\QuanLyThuVien_DTO.pdb

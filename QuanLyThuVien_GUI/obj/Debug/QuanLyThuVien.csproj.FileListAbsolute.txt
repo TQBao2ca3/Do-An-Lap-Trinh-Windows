@@ -1,0 +1,13 @@
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.mnuTaiKhoan.resources
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangKy.resources
+C:\LTTRENMOITRUONGWINDOWS\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGiaDoiMK.resources

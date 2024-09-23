@@ -1,0 +1,33 @@
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_BUS.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_BUS.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DAO.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DTO.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DAO.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DTO.pdb
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.AssemblyReference.cache
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.CoreCompileInputs.cache
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.CopyComplete
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.dll
+C:\Đồ Án Lập Trình Windows\MoHinh3Lop\doan\MoHinh3Lop\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.pdb
+C:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_BUS.dll
+C:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_BUS.pdb
+C:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DAO.dll
+C:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DTO.dll
+C:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DAO.pdb
+C:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DTO.pdb
+C:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.AssemblyReference.cache
+C:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.CoreCompileInputs.cache
+C:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.CopyComplete
+C:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.dll
+C:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.pdb
+D:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_BUS.dll
+D:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_BUS.pdb
+D:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DAO.dll
+D:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DTO.dll
+D:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DAO.pdb
+D:\QuanLyThuVien\QuanLyThuVien_BUS\bin\Debug\QuanLyThuVien_DTO.pdb
+D:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.AssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.csproj.CoreCompileInputs.cache
+D:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyTh.9AD4A675.Up2Date
+D:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.dll
+D:\QuanLyThuVien\QuanLyThuVien_BUS\obj\Debug\QuanLyThuVien_BUS.pdb
